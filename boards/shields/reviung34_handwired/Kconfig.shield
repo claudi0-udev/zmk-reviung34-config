@@ -1,2 +1,0 @@
-config SHIELD_REVIUNG34_HANDWIRED
-    def_bool $(shields_list_contains,reviung34_handwired)
