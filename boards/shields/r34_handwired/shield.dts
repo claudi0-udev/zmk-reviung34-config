@@ -1,4 +1,0 @@
-/ {
-    compatible = "zmk,keyboard";
-    description = "Reviung34 with nice!nano v2";
-};
